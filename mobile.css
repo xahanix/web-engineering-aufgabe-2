@@ -1,0 +1,9 @@
+@media (max-width: 50em) {
+    .main-with-text {   
+       display: block;
+    }
+
+    .sidenote {
+        padding: 0;
+    }
+ }
